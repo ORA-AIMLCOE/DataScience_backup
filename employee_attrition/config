@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaadyxrz3uaxgeeupzj3uhx7x6wt5f3taae7li5jneaf54gsufjww6a
+fingerprint=dd:48:fb:a7:18:04:80:a4:15:af:ad:5b:f1:9a:69:18
+tenancy=ocid1.tenancy.oc1..aaaaaaaaeva36myjptwf6b4z5kukpx6pzcz7y5brwawf5s6v4gu7yto2ickq
+region=us-ashburn-1
+key_file=gc3_key.pem
